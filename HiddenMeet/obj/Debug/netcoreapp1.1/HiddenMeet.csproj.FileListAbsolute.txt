@@ -1,0 +1,6 @@
+c:\users\gede2926\documents\visual studio 2017\Projects\HiddenMeet\HiddenMeet\bin\Debug\netcoreapp1.1\HiddenMeet.deps.json
+c:\users\gede2926\documents\visual studio 2017\Projects\HiddenMeet\HiddenMeet\bin\Debug\netcoreapp1.1\HiddenMeet.runtimeconfig.json
+c:\users\gede2926\documents\visual studio 2017\Projects\HiddenMeet\HiddenMeet\bin\Debug\netcoreapp1.1\HiddenMeet.runtimeconfig.dev.json
+c:\users\gede2926\documents\visual studio 2017\Projects\HiddenMeet\HiddenMeet\bin\Debug\netcoreapp1.1\HiddenMeet.dll
+c:\users\gede2926\documents\visual studio 2017\Projects\HiddenMeet\HiddenMeet\obj\Debug\netcoreapp1.1\HiddenMeet.csprojResolveAssemblyReference.cache
+c:\users\gede2926\documents\visual studio 2017\Projects\HiddenMeet\HiddenMeet\obj\Debug\netcoreapp1.1\HiddenMeet.AssemblyInfo.cs
